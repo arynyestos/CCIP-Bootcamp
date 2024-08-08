@@ -10,6 +10,9 @@ The bootcamp was a 3-day program with an exercise on the first and third days, t
 1. [Exercise 4](https://github.com/arynyestos/CCIP-Bootcamp-Exercise4)
 
 ## Homework Assignments
+
+The completion of all three homework assignments was required to receive the certificate of completion of the course, which I will link here as soon as I get it!
+
 1. [Day 1](https://github.com/arynyestos/CCIP-Bootcamp-Homework1)
 2. [Day 2](https://github.com/arynyestos/CCIP-Bootcamp-Homework2)
 3. [Day 3](https://github.com/arynyestos/CCIP-Bootcamp-Homework3)
