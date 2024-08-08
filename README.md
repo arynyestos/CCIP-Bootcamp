@@ -1,5 +1,5 @@
 # CCIP-Bootcamp
-In August of 2024 I attended a bootcamp on Chainlink's CCIP (Cross-Chain Interoperability Protocol). This readme  contains the links to all the repos I worked on during the course.
+In August of 2024 I attended a bootcamp on Chainlink's CCIP (Cross-Chain Interoperability Protocol). This readme contains the links to all the repos I worked on during the course. Also, you can see the course's gitbook [here](https://cll-devrel.gitbook.io/ccip-bootcamp).
 
 The bootcamp was a 3-day program with an exercise on the first and third days, two on the second and homework for each day, all listed below.
 
